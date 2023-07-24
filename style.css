@@ -23,12 +23,7 @@ h3 {
     padding-bottom: 1em;
 }
 
-    main { 
-        display: grid;
-        grid-template-columns: 40% 60%;
-        margin-top: 3em;
-    }
-    
+  
     header {
         text-align: center;
         margin: auto 2em;
